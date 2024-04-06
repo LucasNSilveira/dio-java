@@ -1,0 +1,11 @@
+// TV pode ligar e desligar
+// TV aumenta e diminui o volume sempre +1 ou -1
+// TV pode mudar de canal de 1 em 1 ou definindo o numero correspondente 
+// Ligada = Boolean; Volume = int; canal = int
+
+public class sistema-smartTV{
+    boolean ligada = false;
+    int canal = 1;
+    volume = 10;
+    
+}
