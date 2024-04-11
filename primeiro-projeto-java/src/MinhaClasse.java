@@ -22,7 +22,7 @@ public class MinhaClasse {
         boolean simNao = a !=b; //tem que declarar a variavel boolean 
         System.out.println(simNao);
         String nome = "Lucas";
-        String nome2 = new String()"Lucas");
+        String nome2 = new String("Lucas");
         System.out.println(nome == nome2);
         System.out.println(nome.equals(nome2));
         //Expressões condicionais
